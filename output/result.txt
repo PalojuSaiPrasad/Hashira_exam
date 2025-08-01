@@ -1,0 +1,3 @@
+Secret (constant term) from testcase1.json = 3
+Secret (constant term) from testcase2.json = 79836264049851
+Secret (constant term) from testcase2.json = 79836264049851
