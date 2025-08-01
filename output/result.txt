@@ -1,3 +1,2 @@
-Secret (constant term) from testcase1.json = 3
-Secret (constant term) from testcase2.json = 79836264049851
-Secret (constant term) from testcase2.json = 79836264049851
+Failed to process input\testcase1.json: Missing required 'p' (prime modulus) in the 'keys' object. Please add a prime number larger than all share values.
+Failed to process input\testcase2.json: Division by zero
